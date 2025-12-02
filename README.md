@@ -4,7 +4,7 @@ Privacy policy
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Privacy Policy – Color Match</title>
+Privacy Policy – Color Match
 </head>
 <body>
 <h1>Privacy Policy – Color Match</h1>

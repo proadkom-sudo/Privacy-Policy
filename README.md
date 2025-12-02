@@ -18,6 +18,6 @@ Privacy policy
 <h2>4. Game Usage</h2>
 <p>All features run locally on the device. No information is sent or shared.</p>
 <h2>5. Contact</h2>
-<p>For any questions regarding privacy or this game, please contact us at: <em>your_email@example.com</em></p>
+<p>For any questions regarding privacy or this game, please contact us at: <em>pro.adkom@gmail.com</em></p>
 </body>
 </html>
